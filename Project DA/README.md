@@ -133,6 +133,3 @@ Open `powerbi/Retail_PowerBI_Dashboard.html` in any browser.
 ### customers (dimension — 200 rows)
 `CustomerID, CustomerName, CustomerType, Region, City`
 
----
-
-*Generated with Python · openpyxl · Chart.js · SQL*
