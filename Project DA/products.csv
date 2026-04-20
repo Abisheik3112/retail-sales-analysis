@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P001,Laptop,Electronics,75000,55000
+P002,Smartphone,Electronics,45000,30000
+P003,Tablet,Electronics,32000,22000
+P004,Headphones,Electronics,8000,4500
+P005,Smart Watch,Electronics,18000,12000
+P006,Desk Chair,Furniture,15000,9000
+P007,Office Desk,Furniture,22000,14000
+P008,Bookshelf,Furniture,9000,5500
+P009,Monitor,Electronics,28000,18000
+P010,Keyboard,Electronics,3500,1800
+P011,T-Shirt,Apparel,1200,500
+P012,Jeans,Apparel,2500,1100
+P013,Sneakers,Apparel,4500,2200
+P014,Jacket,Apparel,5500,2800
+P015,Notebook,Stationery,250,100
+P016,Pen Set,Stationery,450,180
+P017,Planner,Stationery,600,220
+P018,Coffee Maker,Appliances,6500,3800
+P019,Blender,Appliances,4200,2400
+P020,Air Purifier,Appliances,12000,7500
